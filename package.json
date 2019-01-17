@@ -1,0 +1,21 @@
+{
+  "name": "nuxt-4132",
+  "version": "1.1.0",
+  "description": "https://github.com/nuxt/nuxt.js/issues/4132",
+  "author": "Atinux",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start"
+  },
+  "dependencies": {
+    "@nuxtjs/axios": "^5.0.0",
+    "cross-env": "^5.2.0",
+    "nuxt": "^2.3.4"
+  },
+  "devDependencies": {
+    "nodemon": "^1.11.0"
+  },
+  "keywords": []
+}
